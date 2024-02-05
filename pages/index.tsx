@@ -9,7 +9,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>
-        <h1>My Netflix Clone Project</h1>
+        <h1 className='text-3xl text-red-600'>Netflix Clone</h1>
       </main>
     </>
   )
