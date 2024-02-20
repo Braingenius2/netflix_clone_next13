@@ -44,7 +44,7 @@ const Input: React.FC<InputProps> = ({
         className="
         absolute
         text-md
-        text-zinc-400
+        text-neutral-400
         duration-150
         transform
         -translate-y-3
